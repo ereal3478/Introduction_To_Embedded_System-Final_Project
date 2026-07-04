@@ -6,7 +6,7 @@
 ## Project Description:  
 Embedded system is everywhere in our daily lives. The sorting machine is one of the best 
 examples that agriculture industries use in their factories while sorting fruits.
-Therefore, we'd like to implement the sorting machine in our term project.  
+Therefore, we'd like to implement the sorting machine using Raspberry Pi in our term project.  
 
 ## Main Function:  
 #### Pi camera : Capture the frames for color detection.  
